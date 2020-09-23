@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Adyen-Payment-Trial/static/css/main.e4f683f8.chunk.css",
+    "main.js": "/Adyen-Payment-Trial/static/js/main.780e10df.chunk.js",
+    "main.js.map": "/Adyen-Payment-Trial/static/js/main.780e10df.chunk.js.map",
+    "runtime-main.js": "/Adyen-Payment-Trial/static/js/runtime-main.56cf97b9.js",
+    "runtime-main.js.map": "/Adyen-Payment-Trial/static/js/runtime-main.56cf97b9.js.map",
+    "static/js/2.8bdf54b6.chunk.js": "/Adyen-Payment-Trial/static/js/2.8bdf54b6.chunk.js",
+    "static/js/2.8bdf54b6.chunk.js.map": "/Adyen-Payment-Trial/static/js/2.8bdf54b6.chunk.js.map",
+    "index.html": "/Adyen-Payment-Trial/index.html",
+    "precache-manifest.3b1ae2761017846da28666db3a54ba84.js": "/Adyen-Payment-Trial/precache-manifest.3b1ae2761017846da28666db3a54ba84.js",
+    "service-worker.js": "/Adyen-Payment-Trial/service-worker.js",
+    "static/css/main.e4f683f8.chunk.css.map": "/Adyen-Payment-Trial/static/css/main.e4f683f8.chunk.css.map",
+    "static/js/2.8bdf54b6.chunk.js.LICENSE.txt": "/Adyen-Payment-Trial/static/js/2.8bdf54b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56cf97b9.js",
+    "static/js/2.8bdf54b6.chunk.js",
+    "static/css/main.e4f683f8.chunk.css",
+    "static/js/main.780e10df.chunk.js"
+  ]
+}
